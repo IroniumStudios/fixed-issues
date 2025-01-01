@@ -9,7 +9,7 @@ if you consider supporting me, please donate to my cashapp
 <CashApp><https://cash.app/$smithy920>
 
 > ## Notice
->The support for this project has ended, i am working on something better
+>The support for this project has ended, i am working on something better, thats what i did say on my original project, after i realized my mistakes i am doing all i can to fix them, for all the licensers, please forgive me, i did not fully realize the implacations of what i did untill very recently
 
 If your looking for the perfect Framework for your next web browser build, then look no further because your search is over, i have been in your situation of searching for a electron browser base project that isent old or depricated, so i took the time to re create a browser-base project we all know and loved (see the [License](#license) section).
 
