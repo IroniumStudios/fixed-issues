@@ -1,6 +1,6 @@
 {
   "name": "lunarwolf",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "version": "1.0.1-beta.3",
   "sideEffects": false,
   "description": "Extensible, fast and innovative web browser with material UI.",

@@ -177,4 +177,4 @@ Guides and the API reference are located in [`docs`](docs) directory.
 
 # License
 
-This Project Uses a MIT License, Which is free.
+GPL, is what the project needs to use.
