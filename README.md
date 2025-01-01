@@ -1,3 +1,6 @@
+> ## Notice
+>i am trying to do what i can to fix my mistake, google, and the creaters of wexond, please forgive me, my intentions where not to claim your work as my own, but to provide a working solution for the community, i did not know of the trouble that i would cause untill i looked further into the future causes of some of the things that was in the project, so please, i find it in your hearts to forgive me for all that i have done.
+
 <p align="center">
   <a href="[https://LunarWolf.net](https://damonicproducts.wixsite.com/smithcloud/support)"><img src="static/icons/icon.png" width="256"></a>
 </p>
@@ -5,11 +8,6 @@
 <div align="center">
   <h1>LunarWolf Browser</h1>
 
-if you consider supporting me, please donate to my cashapp
-<CashApp><https://cash.app/$smithy920>
-
-> ## Notice
->The support for this project has ended, i am working on something better, thats what i did say on my original project, after i realized my mistakes i am doing all i can to fix them, for all the licensers, please forgive me, i did not fully realize the implacations of what i did untill very recently
 
 If your looking for the perfect Framework for your next web browser build, then look no further because your search is over, i have been in your situation of searching for a electron browser base project that isent old or depricated, so i took the time to re create a browser-base project we all know and loved (see the [License](#license) section).
 
